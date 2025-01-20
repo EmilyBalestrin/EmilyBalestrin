@@ -5,7 +5,7 @@
 🎓 I am a Computer Science student, aspiring and beginner programmer, with a great interest in technology and its nuances. I am always looking to learn something new and improve the knowledge I already have. Currently, I am learning **Java**, **Docker**, **Spring Boot**, **Git**, and **microservices architecture**.  
 
 🇧🇷 **Português**  
-🎓 Sou estudante de Ciência da Computação, aspirante e iniciante na programação, com grande interesse pela área de tecnologia e suas nuances. Sempre busco aprender algo novo e aprimorar os conhecimentos que já possuo. Atualmente, estou aprendendo **Java**, **Docker**, **Spring Boot**, **Git** e a **arquitetura de microsserviços**.  
+🎓 Sou uma estudante de Ciência da Computação, aspirante e iniciante na programação, com grande interesse pela área de tecnologia e suas nuances. Sempre busco aprender algo novo e aprimorar os conhecimentos que já possuo. Atualmente, estou aprendendo **Java**, **Docker**, **Spring Boot**, **Git** e a **arquitetura de microsserviços**.  
 
 ### 🎮 Fun Fact  
 I love games, books, anime, and animations! They’re my go-to sources for relaxation and inspiration. 🚀
